@@ -18,7 +18,7 @@ Uses a max-heap (modified Dijkstra) that tracks the **maximum remaining fuel** u
 ## Usage
 
 ```bash
-python solution.py
+python main.py
 ```
 
 Runs three built-in test cases and prints results to stdout.
