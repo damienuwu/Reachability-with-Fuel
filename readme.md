@@ -1,4 +1,4 @@
-# Graph Reachability with Fuel Constraints
+# Reachability with Fuel Constraints
 
 A Python solution for determining whether a directed walk exists from a source vertex `s` to a target vertex `t` in a directed graph, subject to fuel capacity constraints and mid-path refill stations.
 
